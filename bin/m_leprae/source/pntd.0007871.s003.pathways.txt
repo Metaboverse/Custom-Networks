@@ -1,0 +1,548 @@
+9-OCTADECENOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+DECANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+EICOSANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+HEXACOSANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+HEXADECANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+NONADECANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+OCTADECANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+PENTADECANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+TETRACOSANOATE	"""acylCoA synthases, Acylglycerol catabolism, Triacylglyceride, di and mono"""
+TETRADECANOYL-COA	"""acylCoA synthases, beta oxidation of fatty acid, beta oxidation of unsaturated fatty acids, """
+9-OCTADECENOYL-COA	"""acylCoA synthases, beta oxidation of fatty acid, beta oxidation of unsaturated fatty acids, lipid biosynthesis"""
+NONADECANOYL-ACP	"""acylCoA synthases, beta oxidation of fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION, triglyceride synthesis,"""
+NONANOYL-COA	"""acylCoA synthases,beta oxidation of unsaturated fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamin, triglyceride synthesis, lipid biosynthesis, pathway 1"""
+MAG	"""Acylglycerol catabolism, Diacylglyceride"""
+GL	"""Acylglycerol catabolism, Monoacylglyceride, C3 compounds, Glycerol metabolism"""
+DAG	"""Acylglycerol synthesis, Diacylglycerol synthesis, Acylglycerol catabolism, Triacylglyceride, Acylglycerol catabolism, Diacylglyceride, Inositol phosphate metabolism, Glycerophospholipid metabolism"""
+PA	"""Acylglycerol synthesis, Diacylglycerol synthesis, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine"""
+ABUT	"""Amino acid biosynthesis, Branched chain amino acids, Isoleucine"""
+DIHYDROXYMETHYLPENTANOATE	"""Amino acid biosynthesis, Branched chain amino acids, Isoleucine"""
+CBHCAP	"""Amino acid biosynthesis, Branched chain amino acids, Leucine"""
+IPPMAL	"""Amino acid biosynthesis, Branched chain amino acids, Leucine"""
+LEU	"""Amino acid biosynthesis, Branched chain amino acids, Leucine"""
+MBT	"""Amino acid biosynthesis, Branched chain amino acids, Leucine"""
+MOP	"""Amino acid biosynthesis, Branched chain amino acids, Leucine"""
+ACLAC	"""Amino acid biosynthesis, Branched chain amino acids, Valine"""
+DHMVA	"""Amino acid biosynthesis, Branched chain amino acids, Valine"""
+VAL	"""Amino acid biosynthesis, Branched chain amino acids, Valine"""
+DTDPRHAM	"""Amino acid biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, Amino acid degradation, Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, lipoic acid biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis, lipid biosynthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis, Phenolic Glycolipid synthesis, pHBAD1 and pHBAD2 synthesis, """
+AD	"""Amino acid biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, Citrate cycle (TCA cycle), Amino acid degradation"""
+ADN	"""Amino acid biosynthesis, Glutamate family, Arginine"""
+AKG	"""Amino acid biosynthesis, Glutamate family, Arginine"""
+F6P	"""Amino acid biosynthesis, Glutamate family, Arginine"""
+NAORN	"""Amino acid biosynthesis, Glutamate family, Arginine"""
+QA	"""Amino acid biosynthesis, Glutamate family, Arginine"""
+GA6P	"""Amino acid biosynthesis, Glutamate family, Proline"""
+GALACTANDPP	"""Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, beta oxidation of odd-numbered acyl chain fatty acids, Phospholipid synthesis, synthesis of phophatidlyglycerol, Polyprenoids biosynthesis, C3 compounds, Glycerol metabolism, C3 compounds, glyceraldehyde, Organic Acids, Glycolysis, Citrate cycle (TCA cycle), Pyruvate metabolism, Glyoxylate shunt, Nitrogen metabolism, Energy metabolism, Amino acid degradation, """
+COB-I	"""Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, synthesis of arabinogalactan (incomplete)"""
+AC3PIM5	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+BIOTIN-BCCP	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+CAIR	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+DHSK	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+DQT	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+THDP	"""Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+AN	"""Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis"""
+CPAD5P	"""Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis"""
+IGP	"""Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis"""
+NPRAN	"""Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis"""
+TRP	"""Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis"""
+S7P	"""Amino acid biosynthesis, The aromatic family, Tyrosine and phenylalanine"""
+COB-II	"""Amino acid biosynthesis, The aspartate family, Methionine, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Cofactor biosynthesis, cobalamin biosynthesis"""
+ASP4P	"""Amino acid biosynthesis, The aspartate family, Threonine"""
+ASPSA	"""Amino acid biosynthesis, The aspartate family, Threonine"""
+NAMD	"""Amino acid biosynthesis, The aspartate family, Threonine"""
+cAMP	"""Amino acid biosynthesis, The histidine family, Histidine"""
+DGDP	"""Amino acid biosynthesis, The histidine family, Histidine"""
+DTDP	"""Amino acid biosynthesis, The histidine family, Histidine"""
+FAD	"""Amino acid biosynthesis, The histidine family, Histidine"""
+GLUGSAL	"""Amino acid biosynthesis, The histidine family, Histidine"""
+GMP	"""Amino acid biosynthesis, The histidine family, Histidine"""
+NH3	"""Amino acid biosynthesis, The histidine family, Histidine"""
+ppGpp	"""Amino acid biosynthesis, The histidine family, Histidine"""
+PRFICA	"""Amino acid biosynthesis, The histidine family, Histidine"""
+MBTWALL	"""Amino acid biosynthesis, The histidine family, Histidine, Nucleotide biosynthesis, Purines"""
+ALA	"""Amino acid biosynthesis, The pyruvate family, alanine, Cofactor biosynthesis, ferredoxin biosynthesis, Cofactor biosynthesis, biotin biosynthesis"""
+NADH	"""Amino acid biosynthesis, The serine family, Cysteine"""
+OAHSER	"""Amino acid biosynthesis, The serine family, Cysteine"""
+DR1P	"""Amino acid biosynthesis, The serine family, Cysteine, Nucleotide biosynthesis, Purines"""
+PHP	"""Amino acid biosynthesis, The serine family, Serine"""
+R1P	"""Amino acid biosynthesis, The serine family, Serine"""
+3PG	"""Amino acid biosynthesis, The serine family, Serine, C3 compounds, glycerate, Glycolysis"""
+LLCT	"""Amino acid degradation,  Amino acid biosynthesis,"""
+ILE	"""Amino acid degradation, Amino acid biosynthesis"""
+SUC	"""Amino acid degradation, Amino acid biosynthesis, """
+IP	"""Amino acid degradation, Amino acid biosynthesis, Macromolecule biosynthesis"""
+THR	"""Amino acid degradation, Amino acid biosynthesis, Macromolecule biosynthesis"""
+NADP	"""Amino acid degradation, Amino acid biosynthesis, Macromolecule biosynthesis, """
+D6PGL	"""Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, """
+ADP	"""Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides, Nucleotide biosynthesis, Purines, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis, Cofactor biosynthesis, F420 biosynthesis, Peptidoglycan Synthesis, NAG and NAM biosynthesis, poly-L-glutamate/glutamine synthesis (cell wall), """
+ACTAC	"""Amino acid degradation, Branched chain amino acids"""
+MALCOA	"""Amino acid degradation, Branched chain amino acids"""
+DODECANOYL-COA	"""Amino acid degradation, Branched chain amino acids, Glycolysis, Citrate cycle (TCA cycle)"""
+9-OCTADECENOYL-ACP	"""Amino acid degradation, Branched chain amino acids, Isoleucine"""
+CADA	"""Amino acid degradation, Branched chain amino acids, Isoleucine"""
+DCDP	"""Amino acid degradation, Branched chain amino acids, Isoleucine"""
+MPET	"""Amino acid degradation, Branched chain amino acids, Isoleucine"""
+X5P	"""Amino acid degradation, Branched chain amino acids, Isoleucine"""
+OXOMETHYLPENTANOATE	"""Amino acid degradation, Branched chain amino acids, Isoleucine, Amino acid biosynthesis, Branched chain amino acids, Isoleucine"""
+COB-III	"""Amino acid degradation, Branched chain amino acids, Isoleucine, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Cofactor biosynthesis, cobalamin biosynthesis"""
+13PDG	"""Amino acid degradation, Branched chain amino acids, Leucine"""
+D6PGC	"""Amino acid degradation, Branched chain amino acids, Leucine"""
+SAP	"""Amino acid degradation, Branched chain amino acids, Leucine"""
+THIP	"""Amino acid degradation, Branched chain amino acids, Leucine"""
+PIMS	"""Amino acid degradation, Glutamate family, 4-hydroxyproline degradation, Glyoxylate shunt"""
+NO2	"""Amino acid degradation, Glutamate family, Arginine"""
+XAN	"""Amino acid degradation, Glutamate family, Arginine"""
+ORN	"""Amino acid degradation, Glutamate family, Arginine, Amino acid biosynthesis, Glutamate family, Arginine"""
+GABA	"""Amino acid degradation, Glutamate family, Glutamate"""
+RNA	"""Amino acid degradation, Glutamate family, Proline, Amino acid biosynthesis"""
+NAGLUS	"""Amino acid degradation, Glutamate family, Proline, Amino acid biosynthesis, Glutamate family"""
+A6RP	"""Amino acid degradation, Glutamate family,"""
+GLY	"""Amino acid degradation, Nucleotide biosynthesis, Purines"""
+DHN	"""Amino acid degradation, The aromatic family"""
+PHSER	"""Amino acid degradation, The aromatic family, Cofactor biosynthesis, Thiamine biosynthesis, Macromolecule biosynthesis"""
+FUACAC	"""Amino acid degradation, The aromatic family, Tyrosine"""
+HOMOGEN	"""Amino acid degradation, The aromatic family, Tyrosine"""
+MACAC	"""Amino acid degradation, The aromatic family, Tyrosine"""
+4HPP	"""Amino acid degradation, The aromatic family, Tyrosine, Amino acid biosynthesis, The aromatic family, Tyrosine and phenylalanine, Cofactor biosynthesis, F420 biosynthesis"""
+ASN	"""Amino acid degradation, The aspartate family, Asparagine"""
+ISUCC	"""Amino acid degradation, The aspartate family, Aspartate, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+GLAC	"""Amino acid degradation, The aspartate family, Lysine"""
+DTDP4DH6DGLC	"""Amino acid degradation, The aspartate family, Lysine, Amino acid biosynthesis, The aspartate family, Lysine, mycobactin synthesis"""
+2A3KB	"""Amino acid degradation, The aspartate family, Threonine"""
+AMINOACETONE	"""Amino acid degradation, The aspartate family, Threonine"""
+OBUT	"""Amino acid degradation, The aspartate family, Threonine, Amino acid biosynthesis, Cofactor biosynthesis, biotin biosynthesis"""
+1-AMINO-PROPAN-2-OL	"""Amino acid degradation, The aspartate family, Threonine, Cofactor biosynthesis, cobalamin biosynthesis"""
+CYS	"""Amino acid degradation, The serine family, cysteine, Amino acid biosynthesis, The aspartate family, Methionine, Amino acid biosynthesis, The serine family, Cysteine, Cofactor biosynthesis, Coenzyme-A biosynthesis, Cofactor biosynthesis, ferredoxin biosynthesis, Cofactor biosynthesis, molybdopterin biosynthesis, Cofactor biosynthesis, mycothiol biosynthesis"""
+DT	"""Amino acid degradation, The serine family, Glycine"""
+GLAL	"""Amino acid degradation, The serine family, Glycine"""
+PPI	"""Amino acid degradation, The serine family, Glycine"""
+DOCOSANOATE	"""Anapleurotic reactions, Amino acid degradation, Branched chain amino acids, Cofactor biosynthesis, biotin biosynthesis, lipid biosynthesis, pathway 1"""
+HEXANOYL-COA	"""beta oxidation of fatty acids, synthesis of mannosyl beta-1-phosphodolichol (MPD), lipid biosynthesis, pathway 1, acylCoA synthases"""
+T3	"""C3 compounds, Glycerol metabolism, C3 compounds, glyceraldehyde, C6 Compounds, Fructose"""
+CITR	"""C3 compounds, Glycerol metabolism, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phospholipid synthesis, synthesis of phophatidlyglycerol, Phosphatidylinositol mannoside (PIM) synthesis, """
+MK	"""C3 compounds, Glycerol metabolism, Propanoate metabolism, Nitrogen metabolism, Energy metabolism, Amino acid degradation, Branched chain amino acids"""
+MKH2	"""C3 compounds, Glycerol metabolism, Propanoate metabolism, Nitrogen metabolism, Energy metabolism, Amino acid degradation, Branched chain amino acids"""
+PEP	"""C5 compounds, D-ribose, Pentose phosphate pathway, Nucleotide biosynthesis, Purines"""
+FGAM	"""C6 Compounds, Fructose"""
+SHCHC	"""C6 Compounds, Fructose, Disaccharides, Sucrose, C6 Compounds, mannose"""
+URA	"""C6 Compounds, Galactose"""
+4HPP	"""C6 Compounds, Galactose, Trehalose synthesis"""
+NAAD	"""C6 Compounds, mannose"""
+PORPHOBILILOGIN	"""C6 Compounds, mannose"""
+SAM	"""C6 Compounds, mannose"""
+F420-0	"""C6 Compounds, mannose, Anapleurotic reactions, Nucleotide biosynthesis, Purines, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Cofactor biosynthesis, F420 biosynthesis, Phosphatidylinositol mannoside (PIM) synthesis, synthesis of mannosyl beta-1-phosphodolichol (MPD)"""
+DLIPO	"""Citrate cycle (TCA cycle), Amino acid degradation, Branched chain amino acids,Amino acid biosynthesis, The aspartate family, Lysine"""
+SUCCSAL	"""Citrate cycle (TCA cycle), Amino acid degradation, Glutamate family, Glutamate"""
+ICIT	"""Citrate cycle (TCA cycle), Glyoxylate shunt"""
+OA	"""Citrate cycle (TCA cycle), Propanoate metabolism - methycitrate cycle, Anapleurotic reactions, Amino acid degradation, The aspartate family, Aspartate, Amino acid biosynthesis, The aspartate family, Aspartate"""
+NADPH	"""Citrate cycle (TCA cycle), Pyruvate metabolism, """
+MAL	"""Citrate cycle (TCA cycle), Pyruvate metabolism, Glyoxylate shunt"""
+FERI	"""Citrate cycle (TCA cycle), Sulfate metabolism, Nitrogen metabolism , Energy metabolism, Macromolecule biosynthesis"""
+SUCCOA	"""Citrate cycle (TCA cycle), Sulfate metabolism, Nitrogen metabolism , Energy metabolism, Macromolecule biosynthesis, Cofactor biosynthesis, ferredoxin biosynthesis"""
+8-AMINO7-OXONONANOATE	"""Cofactor biosynthesis, biotin biosynthesis"""
+AICAR	"""Cofactor biosynthesis, biotin biosynthesis"""
+BIOTIN	"""Cofactor biosynthesis, biotin biosynthesis"""
+DETHIOBIOTIN	"""Cofactor biosynthesis, biotin biosynthesis"""
+PIMELOYL-COA	"""Cofactor biosynthesis, biotin biosynthesis"""
+SAM-2-OXOBUTANOATE	"""Cofactor biosynthesis, biotin biosynthesis"""
+UDPG	"""Cofactor biosynthesis, biotin biosynthesis"""
+ACCOA	"""Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, mycothiol biosynthesis, mycobactin synthesis, lipid biosynthesis, pathway 1, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, beta oxidation of odd-numbered acyl chain fatty acids, Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+MOLYBDOPTERIN	"""Cofactor biosynthesis, cobalamin biosynthesis, Amino acid biosynthesis, The aspartate family, Methionine, """
+4PPNTE	"""Cofactor biosynthesis, Coenzyme-A biosynthesis"""
+4PPNTO	"""Cofactor biosynthesis, Coenzyme-A biosynthesis"""
+CIS-KETO-MEROACYL-ACP	"""Cofactor biosynthesis, Coenzyme-A biosynthesis"""
+MBTB-SER	"""Cofactor biosynthesis, Coenzyme-A biosynthesis"""
+PNTO	"""Cofactor biosynthesis, Coenzyme-A biosynthesis"""
+OMVAL	"""Cofactor biosynthesis, Coenzyme-A biosynthesis, Amino acid degradation, Amino acid biosynthesis"""
+bALA	"""Cofactor biosynthesis, Coenzyme-A biosynthesis, Amino acid degradation, The aspartate family, Aspartate"""
+cGMP	"""Cofactor biosynthesis, F420 biosynthesis"""
+DTTP	"""Cofactor biosynthesis, F420 biosynthesis"""
+GLU	"""Cofactor biosynthesis, F420 biosynthesis"""
+HISOL	"""Cofactor biosynthesis, F420 biosynthesis"""
+LLAC	"""Cofactor biosynthesis, F420 biosynthesis, Pyruvate metabolism"""
+AC4PIM7	"""Cofactor biosynthesis, Folate biosynthesis"""
+THF	"""Cofactor biosynthesis, Folate biosynthesis"""
+PYR	"""Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, mycobactin synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, p-hydroxybenzoic acid (HBA) synthesis, Polyprenoids biosynthesis, Glycolysis, Pyruvate metabolism, Propanoate metabolism - methycitrate cycle, Anapleurotic reactions, Glyoxylate shunt, Amino acid degradation, Amino acid biosynthesis"""
+XTSINE	"""Cofactor biosynthesis, Folate biosynthesis, Glyoxylate shunt, """
+HEXANOATE	"""Cofactor biosynthesis, heme biosynthesis"""
+HYDROXYAKG	"""Cofactor biosynthesis, heme biosynthesis"""
+OSB	"""Cofactor biosynthesis, heme biosynthesis"""
+P5C	"""Cofactor biosynthesis, heme biosynthesis"""
+PROTOHEME-FE2	"""Cofactor biosynthesis, heme biosynthesis"""
+PROTOPORPHYRIN-IX	"""Cofactor biosynthesis, heme biosynthesis"""
+PROTOPORPHYRINOGEN	"""Cofactor biosynthesis, heme biosynthesis"""
+TRNA-GLU	"""Cofactor biosynthesis, heme biosynthesis"""
+DCTP	"""Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis"""
+3PSME	"""Cofactor biosynthesis, Menaquinone biosynthesis"""
+AACCOA	"""Cofactor biosynthesis, Menaquinone biosynthesis"""
+bDG6P	"""Cofactor biosynthesis, Menaquinone biosynthesis"""
+DCMP	"""Cofactor biosynthesis, Menaquinone biosynthesis"""
+GLU1SEMIALD	"""Cofactor biosynthesis, Menaquinone biosynthesis"""
+HEPPP	"""Cofactor biosynthesis, Menaquinone biosynthesis, Polyprenoids biosynthesis"""
+PI	"""Cofactor biosynthesis, molybdopterin biosynthesis"""
+SER	"""Cofactor biosynthesis, molybdopterin biosynthesis, mycobactin synthesis, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Amino acid degradation, Amino acid biosynthesis"""
+AIR	"""Cofactor biosynthesis, molybdopterin biosynthesis, Nitrogen metabolism"""
+CHOR	"""Cofactor biosynthesis, mycothiol biosynthesis - hyothetical reaction"""
+MBTSEC	"""Cofactor biosynthesis, mycothiol biosynthesis - hyothetical reaction, synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+3MBECOA	"""Cofactor biosynthesis, mycothiol biosynthesis"""
+C78-3-OXY-MYCOLATE-ENZ	"""Cofactor biosynthesis, mycothiol biosynthesis"""
+MYCOTHIOL	"""Cofactor biosynthesis, mycothiol biosynthesis"""
+2PCDPMDE	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+NACD	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+NACN	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+PHPYR	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+P-L-GLX	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+SME	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis"""
+SUCC	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Citrate cycle (TCA cycle), Propanoate metabolism - methycitrate cycle, Glyoxylate shunt, Energy metabolism, Amino acid degradation, Amino acid biosynthesis"""
+DGMP	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, NAD salvage pathway II """
+CAP	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, peptidoglycan biosynthesis"""
+PROPANOATE	"""Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Phospholipid synthesis, synthesis of phophatidlyglycerol, C3 compounds, Glycerol metabolism, C6 Compounds, Fructose, Glycolysis"""
+D6RP5P	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+DB4P	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+HIS	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+HISOLP	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+HYXN	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+MYCOLIPANOIC-ACP	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+OROA	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis"""
+PRBAMP	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Cofactor biosynthesis, F420 biosynthesis"""
+HMGLUTCOA	"""Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Pentose phosphate pathway"""
+2MBECOA	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+3PSER	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+DHLIPOYLPROTEIN	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+ICHOR	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+SME3P	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+TS-PROTEIN	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+UROPORPHYRINOGEN-III	"""Cofactor biosynthesis, Thiamine biosynthesis"""
+PHE	"""Cofactor biosynthesis, Thiamine biosynthesis, Acylglycerol synthesis, Diacylglycerol synthesis, Phospholipid synthesis, synthesis of phophatidlyglycerol, synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis, Macromolecule biosynthesis, lipid biosynthesis, """
+MGLUTCOA	"""Disaccharides, cellobiose"""
+GAR	"""Disaccharides, cellobiose, Disaccharides, Trehalose, Phosphorylation of glucose"""
+MLT	"""Disaccharides, maltose, Disaccharides, Trehalose"""
+MAHMPPP	"""Disaccharides, Sucrose"""
+R5P	"""Disaccharides, Trehalose"""
+COA	"""Glycolysis, Citrate cycle (TCA cycle), Pyruvate metabolism, Propanoate metabolism, glyoxalate shunt, Amino acid degradation, Branched chain amino acids,  Amino acid biosynthesis, Cofactor biosynthesis, Coenzyme-A biosynthesis, Cofactor biosynthesis, mycobactin synthesis, lipid biosynthesis, pathway 1, acylCoA synthases, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, beta oxidation of odd-numbered acyl chain fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, synthesis of mannosyl beta-1-phosphodolichol (MPD), lipid biosynthesis, Synthesis of mycolic acids, common reactions, Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis, sulfolipid-1 (SL-1) synthesis, SL1278-CYTO synthesis , synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose, Peptidoglycan Synthesis, NAG and NAM biosynthesis, Macromolecule biosynthesis"""
+GL3P	"""Glycolysis, Gluconeogenesis"""
+LAC	"""Glycolysis, Pentose phosphate pathway, amino acid biosynthesis, branched chain, valine, Cofactor biosynthesis, Thiamine biosynthesis, Cofactor biosynthesis, mycothiol biosynthesis, """
+PHEN	"""Glycolysis, Pyruvate metabolism, Anapleurotic reactions, Amino acid biosynthesis, The aromatic family, The shikimate pathway, Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+SLF	"""Glyoxylate shunt, Energy metabolism, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, heme biosynthesis"""
+PHOSPHATIDYLCHOLINE	"""Inositol phosphate metabolism, Glycerophospholipid metabolism"""
+FDP	"""Inositols, MYO-INOSITOL SYNTHESIS"""
+TYR	"""Inositols, MYO-INOSITOL SYNTHESIS, Phosphatidylinositol mannoside (PIM) synthesis"""
+PRPP	"""Inositols, MYO-INOSITOL SYNTHESIS, Phosphorylation of glucose, Interconversion between alpha and beta forms of glucose-6-phosphate, Interconversion between glucose-6-phosphate and fructose-6-phosphate"""
+HEXACOSANOYL-COA	"""lipid biosynthesis, odd numbered fatty acids"""
+9-HEXADECENOYL-ACP	"""lipid biosynthesis, pathway 1"""
+9-HEXADECENOYL-COA	"""lipid biosynthesis, pathway 1"""
+ACACP	"""lipid biosynthesis, pathway 1"""
+CIS-DELTA-13-ENOYL-C32-ACYL-ACP	"""lipid biosynthesis, pathway 1"""
+DOCOSANOYL-ACP	"""lipid biosynthesis, pathway 1"""
+HEXACOSANOYL-COA-CO2	"""lipid biosynthesis, pathway 1"""
+HEXADECANOYL-COA	"""lipid biosynthesis, pathway 1"""
+OCTACOSANOYL-ACP	"""lipid biosynthesis, pathway 1"""
+OCTADECANOYL-ACP	"""lipid biosynthesis, pathway 1"""
+SMMALONYLCOA	"""lipid biosynthesis, pathway 1"""
+TETRACOSANOYL-ACP	"""lipid biosynthesis, pathway 1"""
+TETRADECANOYL-ACP	"""lipid biosynthesis, pathway 1"""
+HEXANOYL-ACP	"""lipid biosynthesis, pathway 1,  acylCoA synthase, beta oxidation of fatty acid, Phospholipid synthesis, Synthesis of Phosphatidylethanolamin, lipid biosynthesis, Synthesis of mycolic acids, FASIIA modul, sulfolipid-1 (SL-1) synthesis, acyl trehalose sulfate-COA (ACYL-TRE-S) , triglyceride synthesis"""
+PHTHIODIOLONE-A	"""lipid biosynthesis, pathway 1, acylCoA synthases, beta oxidation of odd-numbered acyl chain fatty acids"""
+OCTACOSANOYL-COA	"""lipid biosynthesis, pathway 1, beta oxidation of fatty acids"""
+EICOSANOYL-ACP	"""lipid biosynthesis, pathway 1, beta oxidation of fatty acids, phospholipid synthesis, triglyceride synthesis, acylCoA synthases"""
+HEXADECANOYL-ACP	"""lipid biosynthesis, pathway 1, Phosphatidylinositol mannoside (PIM) synthesis, lipid biosynthesis, synthesis of hydroxypthioceranic acid (HPA)"""
+OCTADECANOYL-COA	"""lipid biosynthesis, pathway 1,acylCoA synthase, beta oxidation of fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamin, sulfolipid-1 (SL-1) synthesis, acyl trehalose sulfate-COA (ACYL-TRE-S), synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose, triglyceride synthesis, """
+ACYL-MAS	"""lipid biosynthesis, synthesis of branched fatty acids, synthesis of mycocerosic acid"""
+MAS	"""lipid biosynthesis, synthesis of branched fatty acids, synthesis of mycocerosic acid"""
+CYCLOPROPYL-MEROACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids"""
+TREHALOSEMONOMYCOLATE-P	"""lipid biosynthesis, Synthesis of mycolic acids"""
+BETA-KETO-C22-ACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, FASIIA module"""
+C78MYCOLATE-PP	"""lipid biosynthesis, Synthesis of mycolic acids, FASIIA module"""
+CIS-DELTA-3-ENOYL-C22-ACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, FASIIA module"""
+D-3-HYDROXY-C22-ACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, FASIIA module"""
+MEROACYL-AMP	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID (alpha, keto and methoxy) CONDENSATION"""
+BIOMASS	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION"""
+CIS-DELTA-37-ENOYL-DIMETHY-HYDROXY-C56-ACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION"""
+HEPTADECANOYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION"""
+PENTANOYL-COA	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION"""
+PENTADECANOYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION, BIOMASS2 BIOSYNTHESIS"""
+CIS-DELTA-19-ENOYL-C38-ACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION, MAPC biosynthesis, lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION, BIOMASS2 BIOSYNTHESIS"""
+TRE6P	"""lipid biosynthesis, Synthesis of mycolic acids, MYCOLIC ACID CONDENSATION, synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose, Trehalose synthesis, Disaccharides, Trehalose"""
+TRANS-KETO-MEROACYL-ACP	"""lipid biosynthesis, Synthesis of mycolic acids, SYNTHESIS OF KETO MYCOLATE"""
+PROPIONYLACP	"""lipid biosynthesis, Synthesis of mycolic acids, SYNTHESIS OF METHOXY AND KETO MYCOLATE"""
+PHENOLPHTHIODIOLONE-A	"""lipid biosynthesis, Synthesis of mycolic acids, SYNTHESIS OF METHOXY MYCOLATE"""
+SAH	"""lipid biosynthesis, Synthesis of mycolic acids, Synthesis of Phthiocerol and Phenolphthiocerol, phthiocerol (PTC) synthesis, Phenolic Glycolipid synthesis, pHBAD1 and pHBAD2 synthesis, Amino acid biosynthesis, Cofactor biosynthesis"""
+MALACP	"""lipid biosynthesis,"""
+PROTEIN	"""Macromolecule biosynthesis, BIOMASS2 BIOSYNTHESIS"""
+SMALLMOLECULES	"""Macromolecule biosynthesis, BIOMASS2 BIOSYNTHESIS"""
+HPPP	"""Macromolecule biosynthesis, energy metabolism, """
+NPP	"""Macromolecule biosynthesis, energy metabolism, """
+LIPO	"""Macromolecule biosynthesis, Glycolysis, Amino acid degradation, Branched chain amino acids, Cofactor biosynthesis, lipoic acid biosynthesis"""
+2-PHOSPHO-L-LACTATE	"""Macromolecule biosynthesis, Lipoarabinomannan (LAM) & Lipomannan (LM) synthesis"""
+AC1PIM3	"""Macromolecule biosynthesis, Lipoarabinomannan (LAM) & Lipomannan (LM) synthesis"""
+NAC	"""Macromolecule biosynthesis, Nucleotide biosynthesis"""
+UDPGALF	"""mycobactin synthesis, Cofactor biosynthesis, Menaquinone biosynthesis"""
+HCYS	"""mycobactin synthesis, lipid biosynthesis, """
+GLN	"""mycobactin synthesis, Macromolecule biosynthesis"""
+NAGDPP	"""Nitrogen metabolism, Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, F420 biosynthesis, Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+ASP	"""Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Amino acid degradation, Amino acid biosynthesis"""
+FUM	"""Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Citrate cycle (TCA cycle), Energy metabolism, Amino acid degradation, Amino acid biosynthesis"""
+DHF	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides """
+DUMP	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides """
+MAN1P	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides """
+AMP	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides , Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, beta oxidation of odd-numbered acyl chain fatty acids, One carbon pool by folate, Energy metabolism, Amino acid degradation, Glutamate family, Proline, """
+DTDPGLC	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides , Phenolic Glycolipid synthesis, pHBAD1 and pHBAD2 synthesis, synthesis of arabinogalactan (incomplete)"""
+METTHF	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides, Cofactor biosynthesis, Coenzyme-A biosynthesis, One carbon pool by folate, Amino acid degradation, The serine family, Glycine"""
+ARGSUCC	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+CAASP	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+DOROA	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+RIBFLAV	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+UTP	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+MAN	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides ,  Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides , Nucleotide biosynthesis, Pyrimidines, Cofactor biosynthesis, Coenzyme-A biosynthesis, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phosphatidylinositol mannoside (PIM) synthesis, Polyprenoids biosynthesis, Macromolecule biosynthesis"""
+GA1P	"""Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides, Sulfate metabolism"""
+3MBUTCOA	"""Nucleotide biosynthesis, Purines"""
+ACETYLP	"""Nucleotide biosynthesis, Purines"""
+ATP	"""Nucleotide biosynthesis, Purines"""
+CDPMDE	"""Nucleotide biosynthesis, Purines"""
+D8RL	"""Nucleotide biosynthesis, Purines"""
+DA	"""Nucleotide biosynthesis, Purines"""
+DATP	"""Nucleotide biosynthesis, Purines"""
+DIMGP	"""Nucleotide biosynthesis, Purines"""
+DPPR	"""Nucleotide biosynthesis, Purines"""
+DTMP	"""Nucleotide biosynthesis, Purines"""
+FMN	"""Nucleotide biosynthesis, Purines"""
+G6P	"""Nucleotide biosynthesis, Purines"""
+HEPTADECANOATE	"""Nucleotide biosynthesis, Purines"""
+LPPG	"""Nucleotide biosynthesis, Purines"""
+MAN6P	"""Nucleotide biosynthesis, Purines"""
+MOLYBDENUM	"""Nucleotide biosynthesis, Purines"""
+OMP	"""Nucleotide biosynthesis, Purines"""
+PRFP	"""Nucleotide biosynthesis, Purines"""
+PRLP	"""Nucleotide biosynthesis, Purines"""
+RL5P	"""Nucleotide biosynthesis, Purines"""
+RTHIO	"""Nucleotide biosynthesis, Purines"""
+SAICAR	"""Nucleotide biosynthesis, Purines"""
+UDPNAGPEE	"""Nucleotide biosynthesis, Purines"""
+UREA	"""Nucleotide biosynthesis, Purines"""
+DALA	"""Nucleotide biosynthesis, Purines, ATP, ADP"""
+HCO3	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, biotin biosynthesis"""
+DADP	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, lipoic acid biosynthesis"""
+DGTP	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, cobalamin biosynthesis, Cofactor biosynthesis, F420 biosynthesis"""
+A6RP5P	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Cofactor biosynthesis, Coenzyme-A biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis, Cofactor biosynthesis, molybdopterin biosynthesis, Cofactor biosynthe Cofactor biosynthesis, F420 biosynthesis, Cofactor biosynthesis, Thiamine biosynthesis, Cofactor biosynthesis, mycothiol biosynthesis, mycobactin synthesis, acylCoA synthases"""
+AC2PIM1	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Macromolecule biosynthesis, Pentose phosphate pathway"""
+HMBUTCOA	"""Nucleotide biosynthesis, Purines, Cofactor biosynthesis, Thiamine biosynthesis"""
+DTDP4DH6DMAN	"""Nucleotide biosynthesis, Purines, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides """
+GTP	"""Nucleotide biosynthesis, Purines, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , """
+DNA	"""Nucleotide biosynthesis, Purines, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Nucleotide biosynthesis, Purines, GTP, dGTP"""
+NAMN	"""Nucleotide biosynthesis, Purines, Nucleotide biosynthesis, Purines, ATP, ADP, Nucleotide biosynthesis, Purines, GTP, dGTP, Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis, Cofactor biosynthesis, molybdopterin biosynthesis, Cofactor biosynthesis, F420 biosynthesis, Macromolecule biosynthesis, C6 Compounds, mannose, Anapleurotic reactions, """
+FTHF	"""Nucleotide biosynthesis, Purines, One carbon pool by folate"""
+CMP	"""Nucleotide biosynthesis, Pyrimidines"""
+DUDP	"""Nucleotide biosynthesis, Pyrimidines"""
+NAGLUP	"""Nucleotide biosynthesis, Pyrimidines"""
+MTHF	"""One carbon pool by folate, Amino acid biosynthesis, The aspartate family, Methionine"""
+XMP	"""One carbon pool by folate, energy metabolism, Amino acid degradation, Glutamate family, Proline, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides, beta oxidation of fatty acids, beta oxidation of unsaurated fatty acids, beta oxidation of odd-numbered acyl chain fatty acids"""
+FOR	"""Organic Acids, Cofactor biosynthesis, Riboflavin (vitamin B2), FMN and FAD biosynthesis, Cofactor biosynthesis, Folate biosynthesis"""
+CELB	"""Pentose phosphate pathway, Amino acid biosynthesis, The aromatic family, The shikimate pathway"""
+GSN	"""Pentose phosphate pathway, Amino acid biosynthesis, The aromatic family, Tryptophan biosynthesis, Polyprenoids biosynthesis, Glycolysis"""
+A6RP5P2	"""Pentose phosphate pathway, Cofactor biosynthesis, F420 biosynthesis, Pentose phosphate pathway, """
+G3P	"""Pentose phosphate pathway, Nucleotide biosynthesis, C5 compounds, D-ribose"""
+AC4PIM2	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+DGLU	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+F1P	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+LIPID1	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+LIPID2	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+LIPID2-AMIDATED	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+MAACCOA	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+MDAPIM	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+NAGA1P	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+PEPTIDOGLYCAN	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+PRAM	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+UDP[NAM]GGMDAPIM	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+UDP[NAM]GGMDAPIMAA	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+UDP[NAM]GLY	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+UDP[NAM]GLYGLU	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+DAPIM	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis, Amino acid biosynthesis"""
+FGAR	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis, C6 Compounds, mannose, Interconversion between glucose-6-phosphate and fructose-6-phosphate, glycolysis, Gluconeogenesis, Pentose phosphate pathway"""
+UDPNAG	"""Peptidoglycan Synthesis, NAG and NAM biosynthesis, Macromolecule biosynthesis, poly-L-glutamate/glutamine synthesis (cell wall), Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis"""
+DUTP	"""Phenolic Glycolipid synthesis, pHBAD1 and pHBAD2 synthesis, synthesis of arabinogalactan """
+PHDIM	"""Phenolic Glycolipid synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolphthiocerol dimycocerosate (PDIM) synthesis"""
+UDP	"""Phosphatidylinositol mannoside (PIM) synthesis, BIOMASS synthesis"""
+PTC	"""Phosphatidylinositol mannoside (PIM) synthesis, lipid biosynthesis, synthesis of hydroxypthioceranic acid (HPA)"""
+ACP	"""Phosphatidylinositol mannoside (PIM) synthesis, lipid biosynthesis, Synthesis of mycolic acids, common reactions"""
+GLX	"""Phosphatidylinositol mannoside (PIM) synthesis, Polyprenoids biosynthesis, synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis, Arabinogalactan_Petidoglycan Complex biosynthesis, Macromolecule biosynthesis, Lipoarabinomannan (LAM) & Lipomannan (LM) synthesis, C6 Compounds, mannose, """
+GDPMAN	"""Phosphatidylinositol mannoside (PIM) synthesis, synthesis of mannosyl beta-1-phosphodolichol (MPD), C6 Compounds, mannose, GDP-D-rhamnose biosynthesis/ Fructose and mannose metabolism """
+CL	"""Phospholipid synthesis, synthesis of cardiolipin"""
+PGP	"""Phospholipid synthesis, synthesis of phophatidlyglycerol"""
+PG	"""Phospholipid synthesis, synthesis of phophatidlyglycerol, Phospholipid synthesis, synthesis of cardiolipin, C3 compounds, glycerate"""
+AGL3P	"""Phospholipid synthesis, Synthesis of Phosphatidylethanolamine"""
+PE	"""Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, BIOMASS2 BIOSYNTHESIS"""
+CDPDG	"""Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phospholipid synthesis, synthesis of phophatidlyglycerol, Phospholipid synthesis, synthesis of cardiolipin"""
+PS	"""Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine"""
+DIM-CYTO	"""Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, triglyceride synthesis, lipid biosynthesis, pathway 1, acylCoA synthases, beta oxidation of odd-numbered acyl chain fatty acids"""
+NAGLU	"""poly-L-glutamate/glutamine synthesis (cell wall), Glyoxylate shunt"""
+CDP	"""Polyprenoids biosynthesis, Cofactor biosynthesis, heme biosynthesis"""
+CIS-DELTA-5-TETRADECANOYL-COA	"""Propanoate metabolism, Amino acid degradation, Branched chain amino acids, Isoleucin, lipid biosynthesis, odd numbered fatty acid, beta oxidation of odd-numbered acyl chain fatty acids"""
+UDPGAL	"""Propanoate metabolism, Amino acid degradation, The aspartate family, methionine"""
+RIB	"""Pyruvate metabolism, Pentose phosphate pathway"""
+IMP	"""Pyruvate metabolism, Propanoate metabolism, Sulfate metabolism, Amino acid degradation, Amino acid biosynthesis, nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, NAD salvage pathway II , Cofactor biosynthesis, Coenzyme-A biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, molybdopterin biosynthesis, Cofactor biosynthesis, Thiamine biosynthesis, Cofactor biosynthesis, mycothiol biosynthesis, mycobactin synthesis, acylCoA synthases, lipid biosynthesis, Synthesis of Phthiocerol and Phenolphthiocerol, PHTHIODIOLONE-A synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis, """
+EICOSANOYL-COA	"""Sulfate metabolism, Amino acid degradation, The serine family, Amino acid biosynthesis, The serine family, Cofactor biosynthesis, biotin biosynthesi, Cofactor biosynthesis, lipoic acid biosynthesis"""
+LIPOYLPROTEIN	"""Sulfate metabolism, Nucleotide biosynthesis, pyrimidines"""
+TRE	"""sulfolipid-1 (SL-1) synthesis, trehalose sulfate (TRE-S) synthesis , MAPC biosynthesis, Disaccharides, Trehalose"""
+BIOTIN-CO2	"""synthesis of arabinogalactan (incomplete), 4.4 PEPTIDOGLYCAN PRECURSORS BIOSYNTHESIS (Ingraham et al., 1983), p.112, D-alanyl-D-alanine synthesis"""
+AC3PIM2	"""synthesis of arabinogalactan (incomplete), ArabinofuranoseDPP Synthesis, Arabinogalactan_Petidoglycan Complex biosynthesis"""
+HMB4PP	"""synthesis of arabinogalactan (incomplete), dTDP-Rhamnose Synthesis"""
+IPP	"""synthesis of arabinogalactan (incomplete), dTDP-Rhamnose Synthesis"""
+MDECPP	"""synthesis of arabinogalactan (incomplete), dTDP-Rhamnose Synthesis"""
+DPPPR	"""synthesis of arabinogalactan (incomplete), dTDP-Rhamnose Synthesis, C6 Compounds, Galactose, Interconversion between glucose-6-phosphate and glucose-1-phosphate"""
+DIN	"""synthesis of arabinogalactan (incomplete), dTDP-Rhamnose Synthesis, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine deoxyribonucleotides """
+UMP	"""synthesis of arabinogalactan (incomplete), Macromolecule biosynthesis"""
+ALAALA	"""synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+AC	"""synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis, Nucleotide biosynthesis, """
+MI	"""synthesis of arabinogalactan (incomplete), synthesis of arabinogalactan (incomplete), UDP-Galactofuranose Synthesis"""
+NAG-INS	"""synthesis of arabinogalactan (incomplete), UDP-Galactofuranose Synthesis, C6 Compounds, Galactose"""
+NAD	"""synthesis of arabinogalactan, Arabinogalactan_Petidoglycan Complex biosynthesis"""
+TREHALOSEMONOMYCOLATE	"""synthesis of mannosyl beta-1-phosphodolichol (MPD), lipid biosynthesis, Synthesis of mycolic acids, common reaction, lipid biosynthesis, synthesis of branched fatty acids, synthesis of mycocerosic acid, lipid biosynthesis, synthesis of hydroxypthioceranic acid (HPA), Synthesis of Phthiocerol and Phenolphthiocerol, PHTHIODIOLONE-A synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis, Propanoate metabolism, Amino acid degradation, Branched chain amino acid"""
+CO2	"""synthesis of mannosyl beta-1-phosphodolichol (MPD), lipid biosynthesis, Synthesis of Phthiocerol and Phenolphthiocerol, PHTHIODIOLONE-A synthesis, synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose, Polyprenoids biosynthesis, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Organic Acids, Glycolysis, Citrate cycle (TCA cycle), Pyruvate metabolism, Propanoate metabolism, Pentose phosphate pathway, Anapleurotic reactions, Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Coenzyme-A biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis, Cofactor biosynthesis, biotin biosynthesis, Cofactor biosynthesis, heme biosynthesis, Cofactor biosynthesis, cobalamin biosynthesis"""
+DIACYLTREHALOSE	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose"""
+MAPC	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose"""
+POLYACYLTREHALOSE	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose"""
+PPTT	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose"""
+TRIDECANOYL-COA	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose"""
+H2S	"""synthesis of mycolipanoic, mycolipenic (phthienoic), mycolipodienoic acid and polyacyl trehalose, lipid biosynthesis, Synthesis of mycolic acids, common reactions"""
+DIM	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolphthiocerol dimycocerosate (PDIM) synthesis"""
+F420	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolphthiocerol dimycocerosate (PDIM) synthesis"""
+PHDIM-CYTO	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolphthiocerol dimycocerosate (PDIM) synthesis"""
+MYCOLIPDIENOYL-ACP	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis"""
+PHPAA-COA	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis"""
+PPTC	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis"""
+PROPIONYLCOA	"""Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis"""
+HEPTADECANOYL-COA	"""Synthesis of Phthiocerol and Phenolphthiocerol, phthiocerol (PTC) synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolpthiocerol (PPTC) synthesis """
+PTT	"""Synthesis of Phthiocerol and Phenolphthiocerol, phthiocerol dimycocerosate (DIM) synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phenolphthiocerol dimycocerosate (PDIM) synthesis, lipid biosynthesis, synthesis of branched fatty acids, synthesis of mycocerosic acid"""
+RMMALONYLACP	"""Synthesis of Phthiocerol and Phenolphthiocerol, PHTHIODIOLONE-A synthesis. Lipid biosyntheis, acylCoA synthase, beta oxidation of fatty acid"""
+7-8-DIAMINONONANOATE	"""Synthesis of Phthiocerol and Phenolphthiocerol, p-hydroxybenzoic acid (HBA) synthesis, Amino acid biosynthesis, Cofactor biosynthesis, Folate biosynthesis, Cofactor biosynthesis, Menaquinone biosynthesis"""
+HBA	"""Synthesis of Phthiocerol and Phenolphthiocerol, p-hydroxybenzoic acid (HBA) synthesis, pHBAD1 and pHBAD2 synthesis"""
+HEPTANOYL-COA	"""Synthesis of Phthiocerol and Phenolphthiocerol, PTT synthesis, Synthesis of Phthiocerol and Phenolphthiocerol, phthiocerol (PTC) synthesis"""
+CTP	"""Trehalose synthesis, Nucleotide biosynthesis, de novo biosynthesis of pyrimidine ribonucleotides , Nucleotide biosynthesis, Purines, Cofactor biosynthesis, mycothiol biosynthesis - hyothetical reaction, synthesis of arabinogalactan (incomplete), Peptidoglycan Synthesis, NAG and NAM biosynthesis"""
+AMPMP	"""Trehalose synthesis, Phosphorylation of glucose, Interconversion between alpha and beta forms of glucose-6-phosphate, Interconversion between glucose-6-phosphate and glucose-1-phosphate, Interconversion between glucose-6-phosphate and fructose-6-phosphate, Pentose phosphate pathway, """
+AC4PIM3	"""triglyceride synthesis, C3 compounds, Glycerol metabolism, C3 compounds, glyceraldehyde, Organic Acids, Glycolysis, Citrate cycle (TCA cycle), Pyruvate metabolism, Glyoxylate shunt, Nitrogen metabolism, Energy metabolism, Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Nicotinate and nicotinamide metabolism, Cofactor biosynthesis, NAD salvage pathway II , Cofactor biosynthesis, cobalamin biosynthesis, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, Acylglycerol catabolism, Triacylglyceride, beta oxidation of odd-numbered acyl chain fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phospholipid synthesis, synthesis of phophatidlyglycerol, Polyprenoids biosynthesis, Macromolecule biosynthesis"""
+OPP	"""triglyceride synthesis, C3 compounds, Glycerol metabolism, C3 compounds, glyceraldehyde, Organic Acids, Glycolysis, Citrate cycle (TCA cycle), Pyruvate metabolism, Glyoxylate shunt, Nitrogen metabolism, Energy metabolism, Amino acid degradation, Amino acid biosynthesis, Nucleotide biosynthesis, Cofactor biosynthesis, Nicotinamide nucleotides (NAD+, NADP) biosynthesis, Cofactor biosynthesis, Nicotinate and nicotinamide metabolism, Cofactor biosynthesis, NAD salvage pathway II , Cofactor biosynthesis, cobalamin biosynthesis, beta oxidation of fatty acids, beta oxidation of unsaturated fatty acids, Acylglycerol catabolism, Triacylglyceride, beta oxidation of odd-numbered acyl chain fatty acids, Phospholipid synthesis, Synthesis of Phosphatidylethanolamine, Phospholipid synthesis, synthesis of phophatidlyglycerol, Polyprenoids biosynthesis, Macromolecule biosynthesis"""
+9-HEXADECENOATE	acylCoA synthases
+AC1PIM1	acylCoA synthases
+DECANOYL-COA	acylCoA synthases
+DODECANOATE	acylCoA synthases
+ETH	acylCoA synthases
+GDP	acylCoA synthases
+TETRADECANOATE	acylCoA synthases
+3DDAH7P	all
+H	all
+O2	all
+THI	all
+CYS-NG-INS	Amino acid biosynthesis
+HSER	Amino acid biosynthesis
+MET	Amino acid biosynthesis
+OSLHSER	Amino acid biosynthesis
+BUTANOYL-COA	beta oxidation of fatty acids
+OCTANOYL-COA	beta oxidation of fatty acids
+C78MYCOLATE-ENZ	beta oxidation of odd-numbered acyl chain fatty acids
+DOCOSANOYL-COA	beta oxidation of odd-numbered acyl chain fatty acids
+NONADECANOYL-COA	beta oxidation of odd-numbered acyl chain fatty acids
+RMMALONYLCOA	beta oxidation of odd-numbered acyl chain fatty acids
+TUBERCULOSTEROYL-ACP	beta oxidation of odd-numbered acyl chain fatty acids
+CIS-DELTA-3-DODECANOYL-COA	beta oxidation of unsaturated fatty acids
+TRANS-DELTA-2-DODECANOYL-COA	beta oxidation of unsaturated fatty acids
+UNDECANOYL-COA	beta oxidation of unsaturated fatty acids
+PENTADECANOYL-COA	BIOMASS2 BIOSYNTHESIS
+CHOLESTEROL	cholesterol biosynthesis
+CIT	Citrate cycle (TCA cycle)
+CO-II	cobalamine
+5-AMINO-LEVULINATE	Energy metabolism
+FE2	Energy metabolism
+FE3	Energy metabolism
+2PG	Glycolysis
+ADLIPO	Glycolysis
+GN	Glycolysis
+NG-INS	Glyoxylate shunt
+4PPNCYS	lipid biosynthesis
+ACRCOA	lipid biosynthesis
+DPCOA	lipid biosynthesis
+MYCOSIDE-B	lipid biosynthesis
+TREHALOSEDIMYCOLATE	lipid biosynthesis
+FADH2	Macromolecule biosynthesis
+IMACP	Macromolecule biosynthesis
+PGL-1	MAPC biosynthesis
+HEXACOSANOYL-ACP	mycobactin synthesis
+HYDROXYMETHYLBILANE	mycobactin synthesis
+MBTA-SAL	mycobactin synthesis
+MBTCD-HBA	mycobactin synthesis
+MBTE-LYS	mycobactin synthesis
+MBTF-LYS	mycobactin synthesis
+OICAP	mycobactin synthesis
+SAL	mycobactin synthesis
+MO2	nitrate/nitrite reductase
+GLUP	Nitrogen metabolism
+NO3	Nitrogen metabolism
+LYS	Nucleotide biosynthesis
+MDE4P	Nucleotide biosynthesis
+PTRSC	Nucleotide biosynthesis
+METHF	One carbon pool by folate
+2MBUTCOA	Pentose phosphate pathway
+ARABINOGALACTANDPP	Pentose phosphate pathway
+ARG	Pentose phosphate pathway
+ASUC	Pentose phosphate pathway
+bDG1P	Pentose phosphate pathway
+GLCP	PGL
+FRU	phenolic glycolipid -1 biosynthesis
+OSBCOA	Phenolic Glycolipid synthesis
+PHDIMRHAM1	Phenolic Glycolipid synthesis
+PHDIMRHAM2	Phenolic Glycolipid synthesis
+A160GL3P	Phosphatidylinositol mannoside (PIM) synthesis
+AC1PIM2	Phosphatidylinositol mannoside (PIM) synthesis
+AC2PIM2	Phosphatidylinositol mannoside (PIM) synthesis
+AC2PIM3	Phosphatidylinositol mannoside (PIM) synthesis
+AC3PIM1	Phosphatidylinositol mannoside (PIM) synthesis
+AC3PIM3	Phosphatidylinositol mannoside (PIM) synthesis
+AC3PIM4	Phosphatidylinositol mannoside (PIM) synthesis
+AC4PIM1	Phosphatidylinositol mannoside (PIM) synthesis
+ARAFDPP	Phosphatidylinositol mannoside (PIM) synthesis
+CDPDAG-TBA	Phosphatidylinositol mannoside (PIM) synthesis
+DPP	Phosphatidylinositol mannoside (PIM) synthesis
+G1P	Phosphatidylinositol mannoside (PIM) synthesis
+H2O2	Phosphatidylinositol mannoside (PIM) synthesis
+INS	Phosphatidylinositol mannoside (PIM) synthesis
+LAM	Phosphatidylinositol mannoside (PIM) synthesis
+LM	Phosphatidylinositol mannoside (PIM) synthesis
+PA-TBA	Phosphatidylinositol mannoside (PIM) synthesis
+PI-TBA	Phosphatidylinositol mannoside (PIM) synthesis
+PPM	Phosphatidylinositol mannoside (PIM) synthesis
+PROPIONYLP	Phosphatidylinositol mannoside (PIM) synthesis
+THFG	Phosphatidylinositol mannoside (PIM) synthesis
+UDPNAM	Phosphatidylinositol mannoside (PIM) synthesis
+GLC	Phosphorylation of glucose
+ASER	poly-L-glutamate/glutamine synthesis (cell wall)
+AC4PIM6	Polyprenoids biosynthesis
+AHMMP	Polyprenoids biosynthesis
+bDGLC	Polyprenoids biosynthesis
+DMK	Polyprenoids biosynthesis
+DR5P	Polyprenoids biosynthesis
+FO	Polyprenoids biosynthesis
+FPP	Polyprenoids biosynthesis
+GGPP	Polyprenoids biosynthesis
+HEME-FE2	Polyprenoids biosynthesis
+HEME-FE3	Polyprenoids biosynthesis
+NAM	Polyprenoids biosynthesis
+PPPP	Polyprenoids biosynthesis
+PRBATP	Polyprenoids biosynthesis
+DX5P	PPP
+GLYCOLATE	Propanoate metabolism
+MYCOLIPENOYL-ACP	Propanoate metabolism
+ACAL	Pyruvate metabolism
+DHAP	Pyruvate metabolism
+OTHIO	Pyruvate metabolism
+TS-COSH-TYR	Sulfate metabolism
+AC4PIM5	synthesis of arabinogalactan (incomplete)
+DMPP	synthesis of arabinogalactan (incomplete)
+PRO	synthesis of arabinogalactan (incomplete)
+RHAMNAGDPP	synthesis of arabinogalactan (incomplete)
+MYCOCEROSOYL-MAS	Synthesis of Phthiocerol and Phenolphthiocerol
+HEMT	thiamine
+GPP	thiamine biosynthesis
+TAG	triglyceride synthesis
+TETRACOSANOYL-COA	triglyceride synthesis
+E4P	
+FERO	
